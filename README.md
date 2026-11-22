@@ -8,7 +8,7 @@ len Kafka topic `credit-card-transactions` voi khoang delay ngau nhien tu 1 den 
 ### Chuan bi
 
 ```powershell
-python -m pip install -r requirements-kafka.txt
+python -m pip install -r requirements.txt
 ```
 
 Kafka can dang chay tren `localhost:9092`. Tao topic neu cluster khong tu dong tao topic:
